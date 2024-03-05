@@ -12,12 +12,13 @@ Eureka Server: Employing Eureka Server as a service registry, we enable dynamic 
 API Gateway: Our system incorporates an API Gateway to provide a single entry point for client applications, facilitating routing, security, and other cross-cutting concerns.
 
 # Technologies Used:
-Java
-Spring Boot
-Spring Cloud
-Eureka Server
-API Gateway
-Getting Started:
+ # 1.Java
+ # 2.Spring Boot
+ # 3.Spring Cloud
+ # 4.Eureka Server
+ # 5. API Gateway
+ 
+# Getting Started:
 To get started with AgileAirlineManager, please refer to the documentation provided in the respective directories of each microservice. Ensure that you have Java and Maven installed on your system before proceeding.
 
 # Contributing:
